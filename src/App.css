@@ -16,3 +16,7 @@ nav {
 .nav-logo {
   max-width: 100px;
 }
+
+section {
+  padding: 20px;
+}
